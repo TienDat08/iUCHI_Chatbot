@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+tavily-python
+google-genai
+python-dotenv
+loguru
