@@ -2,8 +2,6 @@
 
 AI chatbot cho nền tảng công chứng số IUCHI, sử dụng Langgraph, call API gemini của Google.
 
-<img src="./app.png" title="Gemini Fullstack LangGraph" alt="Gemini Fullstack LangGraph" width="90%">
-
 ## Features
 
 - 💬 Fullstack application with a React frontend and LangGraph backend.
